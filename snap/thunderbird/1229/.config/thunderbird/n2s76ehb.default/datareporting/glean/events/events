@@ -1,0 +1,4 @@
+{"timestamp":71804,"category":"mail","name":"account_hub_loaded","extra":{"view_name":"MAIL","glean_timestamp":"1794252579131"}}
+{"timestamp":71840,"category":"mail","name":"account_hub_loaded","extra":{"glean_timestamp":"1794252579167","view_name":"autoConfigSubview"}}
+{"timestamp":72152,"category":"glean","name":"session_start","extra":{"session_id":"147726c4-0564-4bc4-a9f0-6988ae0013ed","session_seq":"1","session_start_time":"2026-11-09T22:29:39.478+03:00","sampled_in":"true","glean_timestamp":"72152"}}
+{"timestamp":90493,"category":"mail","name":"ui_interaction","extra":{"source":"toolbox","glean_timestamp":"1794252597820","id":"messenger-window-close-button"},"session":{"session_id":"147726c4-0564-4bc4-a9f0-6988ae0013ed","session_seq":1,"event_seq":0,"session_sample_rate":1.0,"session_start_time":"2026-11-09T22:29:39.478+03:00"}}

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="thunderbird_thunderbird.desktop" score="1" last-seen="1794252597"/>
+    <application id="org.gnome.Ptyxis.desktop" score="1611" last-seen="1794558680"/>
+    <application id="firefox_firefox.desktop" score="429" last-seen="1794558680"/>
+    <application id="gnome-initial-setup.desktop" score="6" last-seen="1794252574"/>
+  </context>
+</application-state>
